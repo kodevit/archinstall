@@ -41,4 +41,8 @@ imagemagick
 playerctl
 xsettingsd
 obconf
-
+chromium
+keepassxc
+dropbox
+guake
+terminator
